@@ -1,0 +1,15 @@
+{
+    "connection":"pg",
+    "pg": {
+        "client": "pg",
+        "connection": {
+            "user": "postgres",
+        "host": "localhost",
+        "database": "myshopdb",
+        "password": "whiteboard",
+        "port": 5432,
+        "ssl": true
+        }
+    }
+
+}

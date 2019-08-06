@@ -1,0 +1,15 @@
+{
+    "connection":"pg",
+    "pg": {
+        "client": "pg",
+        "connection": {
+            "user": "mvwzoopqiafazr",
+        "host": "ec2-174-129-226-234.compute-1.amazonaws.com",
+        "database": "dahj0ncvpl7hjv",
+        "password": "88223d3032d9779aeeaa589e86dd06122f8932199b71a9d8add8149038622b36",
+        "port": 5432,
+        "ssl": true
+        }
+    }
+
+}
